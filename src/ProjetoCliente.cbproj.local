@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/21 17:29:52.000.079,=C:\Users\lucas.alves\Documents\Projetos\Projeto-Redes-De-Computadores\Unit1.cpp</Transaction>
+    <Transaction>2022/02/21 17:30:16.000.218,=C:\Users\lucas.alves\Documents\Projetos\Projeto-Redes-De-Computadores\Unit1.cpp</Transaction>
+    <Transaction>2022/02/21 17:30:41.000.665,=C:\Users\lucas.alves\Documents\Projetos\Projeto-Redes-De-Computadores\Unit1.cpp</Transaction>
+    <Transaction>2022/02/21 17:50:53.000.723,C:\Users\lucas.alves\Documents\Projetos\Projeto-Redes-De-Computadores\Unit1.cpp=C:\Users\lucas.alves\Documents\Projetos\Projeto-Redes-De-Computadores\untIP.cpp</Transaction>
+    <Transaction>2022/02/21 17:50:53.000.723,C:\Users\lucas.alves\Documents\Projetos\Projeto-Redes-De-Computadores\Unit1.h=C:\Users\lucas.alves\Documents\Projetos\Projeto-Redes-De-Computadores\untIP.h</Transaction>
+    <Transaction>2022/02/21 17:50:53.000.723,C:\Users\lucas.alves\Documents\Projetos\Projeto-Redes-De-Computadores\Unit1.dfm=C:\Users\lucas.alves\Documents\Projetos\Projeto-Redes-De-Computadores\untIP.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
